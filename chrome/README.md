@@ -1,4 +1,4 @@
-# Moonlight 🌌 userChrome
+# Moonlight 🌌 userChrome przerobiony na #1a1a1a
 
 A dark userstyle for Firefox inspired by [moonlight-vscode-theme](https://github.com/atomiks/moonlight-vscode-theme) and [github-moonlight](https://github.com/Brettm12345/github-moonlight)
 
