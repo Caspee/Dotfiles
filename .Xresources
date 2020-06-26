@@ -1,0 +1,76 @@
+! special
+
+*.foreground:   #ffffff
+
+*.background:   #1a1a1a
+
+*.cursorColor:  #ffffff
+
+
+
+! black
+
+*.color0:       #121212
+
+*.color8:       #474747
+
+
+
+! red
+
+*.color1:       #bf1e2d
+
+*.color9:       #e7212a
+
+
+
+! green
+
+*.color2:       #9dba3a
+
+*.color10:      #a9c938
+
+
+
+! yellow
+
+*.color3:       #dba613
+
+*.color11:      #debe21
+
+
+
+! blue
+
+*.color4:       #1ca1db
+
+*.color12:      #00afda
+
+
+
+! magenta
+
+*.color5:       #652f90
+
+*.color13:      #894e9f
+
+
+
+! cyan
+
+*.color6:       #ea7d24
+
+*.color14:      #f79321
+
+
+
+! white
+
+*.color7:       #e7e8e9
+
+*.color15:      #f3f3f4
+
+
+
+
+*.font: Source Code Pro:pixelsize=15:antialias=true:hintstyle=hintmedium
