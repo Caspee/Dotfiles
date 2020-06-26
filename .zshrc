@@ -105,4 +105,3 @@ source $ZSH/oh-my-zsh.sh
 alias clock='tty-clock -s -c -D'
 alias updt='sudo pacman -Syu'
 alias minecraft='java -jar ~/Pobrane/SKlauncher.jar'
-alias dotfiles='/usr/bin/git --git-dir=/home/archie/.dotfiles/ --work-tree=/home/archie'
